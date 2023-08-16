@@ -1,5 +1,5 @@
 # Understanding Customer Satisfaction with Machine Learning Methods
-This repository contains the code and documentation for a term project conducted by İsmail GÜRLER at GAZİ UNIVERSITY, Institute of Informatics, in December 2022. 
+This repository contains the code and documentation for a term project conducted by İsmail GÜRLER at GAZİ UNIVERSITY in December 2022. 
 The project aims to explore customer satisfaction using various machine learning algorithms on a real dataset from an airline company's survey results. 
 The goal is to develop a predictive model that can accurately predict customer satisfaction levels.
 
